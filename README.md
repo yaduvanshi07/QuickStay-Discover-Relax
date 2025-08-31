@@ -46,7 +46,7 @@ Think of it like your own Airbnb clone designed from scratch with love and full-
 
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -145,7 +145,7 @@ QuickStay-Discover-Relax/
 └── README.md
 ```
 
-## 🛠️ API Endpoints
+## 🛠 API Endpoints
 
 ### Authentication
 - `POST /api/auth/register` - User registration
@@ -172,7 +172,7 @@ QuickStay-Discover-Relax/
 - `PUT /api/reviews/:id` - Update review
 - `DELETE /api/reviews/:id` - Delete review
 
-## 🧪 Testing
+##  Testing
 
 ```bash
 # Backend tests
@@ -184,12 +184,9 @@ cd frontend
 npm test
 ```
 
-## 📦 Deployment
+##  Deployment
 
-### Backend Deployment (Heroku)
-1. Create a Heroku app
-2. Set environment variables in Heroku dashboard
-3. Deploy using Git or GitHub integration
+
 
 ### Frontend Deployment (Netlify/Vercel)
 1. Build the frontend: `npm run build`
@@ -216,13 +213,10 @@ We welcome contributions! Please follow these steps:
 - Add tests for new features
 - Update documentation as needed
 
-## 🐛 Bug Reports & Feature Requests
+##  Bug Reports & Feature Requests
 
 Found a bug or have a feature request? Please open an issue on [GitHub Issues](https://github.com/yaduvanshi07/QuickStay-Discover-Relax/issues).
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
