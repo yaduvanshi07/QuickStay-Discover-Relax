@@ -1,4 +1,4 @@
-# QuickStay - Discover & Relax 🏠✨
+# QuickStay - Discover & Relax 
 
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)](https://nodejs.org/)
@@ -11,7 +11,7 @@
 
 Think of it like your own Airbnb clone designed from scratch with love and full-stack power 🚀
 
-## 🌟 Features
+##  Features
 
 ### For Guests
 - ✅ **Smart Search**: Search stays by date, price range, and amenities
@@ -44,13 +44,7 @@ Think of it like your own Airbnb clone designed from scratch with love and full-
 | **Cloud Services** | MongoDB Atlas, Cloudinary (Images) |
 | **Development** | npm, Git, VS Code |
 
-## 📱 Screenshots
 
-| Search Page | Host Dashboard | Booking Confirmation |
-|------------|----------------|----------------------|
-| ![Search](https://via.placeholder.com/300x200/2196F3/FFFFFF?text=Search+Properties) | ![Dashboard](https://via.placeholder.com/300x200/4CAF50/FFFFFF?text=Host+Dashboard) | ![Booking](https://via.placeholder.com/300x200/FF9800/FFFFFF?text=Booking+Flow) |
-
-*Note: Replace placeholder images with actual screenshots from your application*
 
 ## 🚀 Quick Start
 
