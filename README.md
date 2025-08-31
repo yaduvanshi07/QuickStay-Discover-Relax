@@ -197,7 +197,7 @@ npm test
 2. Set up a cluster
 3. Update your `MONGODB_URI` in environment variables
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -218,13 +218,13 @@ We welcome contributions! Please follow these steps:
 Found a bug or have a feature request? Please open an issue on [GitHub Issues](https://github.com/yaduvanshi07/QuickStay-Discover-Relax/issues).
 
 
-## 👨‍💻 Author
+##  Author
 
 **Yaduvanshi07**
 - GitHub: [@yaduvanshi07](https://github.com/yaduvanshi07)
 - LinkedIn: [Connect with me](https://linkedin.com/in/yaduvanshi07)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Inspired by Airbnb and other vacation rental platforms
 - Built with modern web technologies and best practices
